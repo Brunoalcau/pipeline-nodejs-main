@@ -2,10 +2,7 @@
   "name": "pipeline-nodejs-main",
   "version": "1.0.0",
   "description": "mostrar o numero da versão",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rsvalerio/pipeline-nodejs-main.git"
