@@ -10,9 +10,5 @@ Every commit should generate a new version of the app delivered
 
 There are so many tools to do the job, let's just explore this tools
 
-Stacks
+[Stacks](https://github.com/rsvalerio/pipeline-nodejs-main/wiki/Stacks)
 
-1. Github
-2. Codeship
-3. MyGet
-4. Heroku
