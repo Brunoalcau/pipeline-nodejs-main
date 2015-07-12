@@ -1,5 +1,5 @@
 {
-  "name": "pipeline-nodejs-main",
+  "name": "@acmecorp/pipeline-nodejs-main",
   "version": "1.0.0",
   "description": "mostrar o numero da versão",
   "main": "main.js",
@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/rsvalerio/pipeline-nodejs-main/issues"
   },
-  "homepage": "https://github.com/rsvalerio/pipeline-nodejs-main#readme"
+  "homepage": "https://github.com/rsvalerio/pipeline-nodejs-main#readme",
+  "dependencies": {
+    "@acmecorp/pipeline-nodejs-component":"*"
+  }
 }
