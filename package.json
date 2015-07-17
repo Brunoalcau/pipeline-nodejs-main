@@ -1,8 +1,11 @@
 {
-  "name": "@acmecorp/pipeline-nodejs-main",
-  "version": "1.0.0",
+  "name": "pipeline-nodejs-main",
+  "version": "2.2.0",
   "description": "mostrar o numero da versão",
   "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rsvalerio/pipeline-nodejs-main.git"
@@ -14,6 +17,7 @@
   },
   "homepage": "https://github.com/rsvalerio/pipeline-nodejs-main#readme",
   "dependencies": {
-    "@acmecorp/pipeline-nodejs-component":"*"
+    "express": "^5.0.0-alpha.2",
+    "pipeline-nodejs-component": "^1.0.0"
   }
 }
